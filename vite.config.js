@@ -10,7 +10,7 @@ export default defineConfig({
   plugins: [vue(),VitePWA({
     manifest: {
       name: 'Criptocotizador de Criptomonedas con VUE.JS VITE Y SASS',
-      short_name: 'Criptocotizador | DMA',
+      short_name: 'Criptocotizador | AIMB',
       description: 'Criptocotizador de Criptomonedas con VUE.JS VITE Y SASS',
       theme_color: '#f68de3',
       "icons": [

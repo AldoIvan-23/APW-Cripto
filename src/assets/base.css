@@ -79,7 +79,7 @@ button {
   cursor: pointer;
   font-weight: bold;
   color: snow;
-  background-color: #124364;
+  background-color: #e62d4c;
   border: none;
   font-size: 15px;
   outline: none;
@@ -87,7 +87,7 @@ button {
 }
 button:hover {
   transition: background 0.3s;
-  background: #1c699c;
+  background: #ee941f;
 }
 
 @media screen and (max-width: 600px) {
